@@ -54,12 +54,12 @@ class PostOLlamaAnalyzer {
         this.apiContext = {
             method: request.method,
             url: request.url.toString(),
-            headers: this.processHeaders(request.headers.toObject()), // Must remain enable
-            query: request.url.query?.toObject() || {}, //Optional
+            headers: this.processHeaders(request.headers.toObject()), // Must remain enabled for script to work properly
+            // query: request.url.query?.toObject() || {}, //Optional - since resolved URL will already have it
             requestBody: request.body ? request.body.toString() : null, //Optional
             status: response.code, // Must remain enable
             responseTimeMs: response.responseTime, // Must remain enable
-            response: this.parseResponseBody() //Optional
+            // response: this.parseResponseBody() //Optional - Enable only if required otherwise tokens will be wasted
         };
     }
 
