@@ -35,7 +35,7 @@
 - **Performance Monitoring**: Categorizes response times with actionable thresholds
 - **Sensitive Data Masking**: Automatically obscures API keys and auth tokens
 
-### **AI Test Cases Generation**
+### **Local Prompt for Test Cases Generation**
 - Generates **50+ test cases** across 5 categories: 
   1. **Functional Testing** (10 cases)
   2. **Negative Testing** (10 cases)
