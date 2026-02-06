@@ -7,13 +7,13 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
+- [Project Structure](#project-structure)
 - [What It Analyzes](#what-it-analyzes)
 - [AI Test Case Generation](#ai-test-case-generation)
 - [Visualization Dashboard](#visualization-dashboard)
 - [Screenshots](#screenshots)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [Support Development](#support-development)
 
@@ -99,6 +99,25 @@ ollama serve
 **Location in Postman:**
 ```
 API Request → scripts Sub-Tab → Post-response Script Section
+```
+
+## Project Structure
+
+```
+Post-o-llama.js
+├── PostOLlamaAnalyzer Class
+│   ├── Constructor (Initialization)
+│   ├── validateEnvironment()
+│   ├── buildApiContext()
+│   ├── processHeaders() - Masks sensitive data
+│   ├── analyzeSecurity() - Auth & headers check
+│   ├── analyzePerformance() - Response time analysis
+│   ├── buildPrompt() - Creates AI instruction
+│   ├── callOllama() - Calls local AI model
+│   ├── calculateMetrics() - Timing calculations
+│   └── generateVisualization() - HTML dashboard
+├── Main Execution Flow
+└── Async Entry Point
 ```
 
 ## What It Analyzes
@@ -263,25 +282,6 @@ model: 'qwen2.5-coder:7b'
 - Run Ollama on GPU for better performance
 - Adjust the prompt for faster analysis
 - Upgrade system hardware e.g. GPU to RTX 5090
-
-## Project Structure
-
-```
-Post-o-llama.js
-├── PostOLlamaAnalyzer Class
-│   ├── Constructor (Initialization)
-│   ├── validateEnvironment()
-│   ├── buildApiContext()
-│   ├── processHeaders() - Masks sensitive data
-│   ├── analyzeSecurity() - Auth & headers check
-│   ├── analyzePerformance() - Response time analysis
-│   ├── buildPrompt() - Creates AI instruction
-│   ├── callOllama() - Calls local AI model
-│   ├── calculateMetrics() - Timing calculations
-│   └── generateVisualization() - HTML dashboard
-├── Main Execution Flow
-└── Async Entry Point
-```
 
 ### Key Methods
 - **`execute()`**: Main orchestrator method
