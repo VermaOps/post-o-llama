@@ -1,7 +1,7 @@
 [![Postman v10+](https://img.shields.io/badge/Postman-v10%2B-orange?logo=postman)](https://www.postman.com/)
 [![Ollama Required](https://img.shields.io/badge/Ollama-Required-cyan)](https://ollama.ai/)
 
-# 🦙 Post-o-llama: AI-Powered API Analysis & Test Case Generator for Postman
+# Post-o-llama: AI-Powered API Analysis & Test Case Generator for Postman
 
 ## 📖 Table of Contents
 - [Overview](#overview)
