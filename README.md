@@ -1,4 +1,4 @@
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 54 05ΓÇ»AM" src="https://github.com/user-attachments/assets/36af09b5-be15-4b62-a17a-baae519d50f6" />[![Postman v10+](https://img.shields.io/badge/Postman-v10%2B-orange?logo=postman)](https://www.postman.com/)
+[![Postman v10+](https://img.shields.io/badge/Postman-v10%2B-orange?logo=postman)](https://www.postman.com/)
 [![Ollama Required](https://img.shields.io/badge/Ollama-Required-cyan)](https://ollama.ai/)
 
 # 🦙 Post-o-llama: AI-Powered API Analysis & Test Case Generator for Postman
