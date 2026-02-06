@@ -1,4 +1,4 @@
-[![Postman v10+](https://img.shields.io/badge/Postman-v10%2B-orange?logo=postman)](https://www.postman.com/)
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 54 05ΓÇ»AM" src="https://github.com/user-attachments/assets/36af09b5-be15-4b62-a17a-baae519d50f6" />[![Postman v10+](https://img.shields.io/badge/Postman-v10%2B-orange?logo=postman)](https://www.postman.com/)
 [![Ollama Required](https://img.shields.io/badge/Ollama-Required-cyan)](https://ollama.ai/)
 
 # 🦙 Post-o-llama: AI-Powered API Analysis & Test Case Generator for Postman
@@ -10,12 +10,12 @@
 - [What It Analyzes](#what-it-analyzes)
 - [AI Test Case Generation](#ai-test-case-generation)
 - [Visualization Dashboard](#visualization-dashboard)
+- [Screenshots](#screenshots)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Support Development](#support-development)
 
 ## Overview
 
@@ -101,7 +101,7 @@ ollama serve
 API Request → scripts Sub-Tab → Post-response Script Section
 ```
 
-## 📊 What It Analyzes
+## What It Analyzes
 
 ### Security Analysis
 - ✅ Authentication presence/absence
@@ -128,7 +128,7 @@ API Request → scripts Sub-Tab → Post-response Script Section
 - Response time
 - Response body (parsed when possible) // Optional to include while Test case generation
 
-## 🤖 AI Test Case Generation
+## AI Test Case Generation
 
 ### Prompt Structure
 The AI receives a structured prompt containing:
@@ -159,7 +159,7 @@ The AI receives a structured prompt containing:
 **Priority**: Medium
 ```
 
-## 🎨 Visualization Dashboard
+## Visualization Dashboard
 The dashboard provides:
 
 ### Metrics Panel
@@ -181,7 +181,22 @@ The dashboard provides:
 - **Yellow**: Warning/Needs attention
 - **Red**: Critical/Must fix immediately
 
-## ⚙️ Configuration
+## Screenshots
+<img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 28 16ΓÇ»AM" src="https://github.com/user-attachments/assets/dccf8df3-8989-4c9a-b540-3211230a4e8f" />
+<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 30 06ΓÇ»AM" src="https://github.com/user-attachments/assets/e29fa884-7514-484e-9724-aafd96316df6" />
+<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 51 20ΓÇ»AM" src="https://github.com/user-attachments/assets/9a27edc2-4728-4e40-87cd-34a7f2644c65" />
+<img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 51 58ΓÇ»AM" src="https://github.com/user-attachments/assets/5f6c5643-d6a3-4480-87c5-947e55f36a50" />
+<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 09ΓÇ»AM" src="https://github.com/user-attachments/assets/a9d00c5e-113a-4d82-b3b5-8828a83d4283" />
+<img width="1470" height="925" alt="Screenshot 2026-02-06 at 11 52 27ΓÇ»AM" src="https://github.com/user-attachments/assets/21fe80d0-63d9-455f-ad08-1e585e72cf5e" />
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 52 37ΓÇ»AM" src="https://github.com/user-attachments/assets/de769e22-e6c9-41f0-8379-2fb1770c24bc" />
+<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 50ΓÇ»AM" src="https://github.com/user-attachments/assets/2b0431f7-78fe-4bdd-b4ea-84460689a641" />
+<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 53 00ΓÇ»AM" src="https://github.com/user-attachments/assets/7ea706c9-0042-4f3a-a7e9-e266bf07e391" />
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 19ΓÇ»AM" src="https://github.com/user-attachments/assets/eafdf1fb-14d6-4f80-a015-6bfbdbadc703" />
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 29ΓÇ»AM" src="https://github.com/user-attachments/assets/52db86e6-049e-4d09-8246-999b539dfb31" />
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 41ΓÇ»AM" src="https://github.com/user-attachments/assets/fd5f7c48-6c37-4eee-a95d-9752e4c150c1" />
+<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 54 05ΓÇ»AM" src="https://github.com/user-attachments/assets/51eecb30-6526-4bff-8de6-a5e884130379" />
+
+## Configuration
 
 ### Default Settings (Modifiable in Code)
 
@@ -208,7 +223,7 @@ model: 'qwen2.5-coder:7b'
 4. Change AI model in `callOllama()` method
 5. Customize styling in `generateVisualization()` method
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -249,7 +264,7 @@ model: 'qwen2.5-coder:7b'
 - Adjust the prompt for faster analysis
 - Upgrade system hardware e.g. GPU to RTX 5090
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Post-o-llama.js
@@ -274,7 +289,7 @@ Post-o-llama.js
 - **`buildPrompt()`**: Structured prompt for consistent AI output
 - **`generateVisualization()`**: Creates the Postman visualizer output
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Here's how:
 
@@ -283,6 +298,18 @@ We welcome contributions! Here's how:
 3. **Commit changes**: `git commit -m 'Add amazing feature'`
 4. **Push to branch**: `git push origin feature/amazing-feature`
 5. **Open a Pull Request**
+
+## Support Development
+
+If Post-o-llama helps your API testing, consider supporting our work:
+
+**Star the Repository**: Show your support by starring the project on GitHub!
+
+**Support Links**:
+- ☕ **Ko-fi**: [https://ko-fi.com/berserkikun](https://ko-fi.com/berserkikun)
+- 💰 **PayPal**: [https://paypal.me/Berserk623](https://paypal.me/Berserk623)
+
+Your support helps maintain the project and add new features.
 
 ---
 
