@@ -306,8 +306,7 @@ If Post-o-llama helps your API testing, consider supporting our work:
 **Star the Repository**: Show your support by starring the project on GitHub!
 
 **Support Links**:
-- ☕ **Ko-fi**: [https://ko-fi.com/berserkikun](https://ko-fi.com/berserkikun)
-- 💰 **PayPal**: [https://paypal.me/Berserk623](https://paypal.me/Berserk623)
+- 💰 **PayPal**: [PayPal](https://www.paypal.com/ncp/payment/7Y3836GETVF94)
 
 Your support helps maintain the project and add new features.
 
