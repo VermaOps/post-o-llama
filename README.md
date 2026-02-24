@@ -201,19 +201,13 @@ The dashboard provides:
 - **Red**: Critical/Must fix immediately
 
 ## Screenshots
-<img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 28 16ΓÇ»AM" src="https://github.com/user-attachments/assets/dccf8df3-8989-4c9a-b540-3211230a4e8f" />
-<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 30 06ΓÇ»AM" src="https://github.com/user-attachments/assets/e29fa884-7514-484e-9724-aafd96316df6" />
-<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 51 20ΓÇ»AM" src="https://github.com/user-attachments/assets/9a27edc2-4728-4e40-87cd-34a7f2644c65" />
-<img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 51 58ΓÇ»AM" src="https://github.com/user-attachments/assets/5f6c5643-d6a3-4480-87c5-947e55f36a50" />
-<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 09ΓÇ»AM" src="https://github.com/user-attachments/assets/a9d00c5e-113a-4d82-b3b5-8828a83d4283" />
-<img width="1470" height="925" alt="Screenshot 2026-02-06 at 11 52 27ΓÇ»AM" src="https://github.com/user-attachments/assets/21fe80d0-63d9-455f-ad08-1e585e72cf5e" />
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 52 37ΓÇ»AM" src="https://github.com/user-attachments/assets/de769e22-e6c9-41f0-8379-2fb1770c24bc" />
-<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 50ΓÇ»AM" src="https://github.com/user-attachments/assets/2b0431f7-78fe-4bdd-b4ea-84460689a641" />
-<img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 53 00ΓÇ»AM" src="https://github.com/user-attachments/assets/7ea706c9-0042-4f3a-a7e9-e266bf07e391" />
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 19ΓÇ»AM" src="https://github.com/user-attachments/assets/eafdf1fb-14d6-4f80-a015-6bfbdbadc703" />
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 29ΓÇ»AM" src="https://github.com/user-attachments/assets/52db86e6-049e-4d09-8246-999b539dfb31" />
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 41ΓÇ»AM" src="https://github.com/user-attachments/assets/fd5f7c48-6c37-4eee-a95d-9752e4c150c1" />
-<img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 54 05ΓÇ»AM" src="https://github.com/user-attachments/assets/51eecb30-6526-4bff-8de6-a5e884130379" />
+| | | |
+|:---:|:---:|:---:|
+| <img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 28 16ΓÇ»AM" src="https://github.com/user-attachments/assets/dccf8df3-8989-4c9a-b540-3211230a4e8f" /> | <img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 30 06ΓÇ»AM" src="https://github.com/user-attachments/assets/e29fa884-7514-484e-9724-aafd96316df6" /> | <img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 51 20ΓÇ»AM" src="https://github.com/user-attachments/assets/9a27edc2-4728-4e40-87cd-34a7f2644c65" /> |
+| <img width="1470" height="922" alt="Screenshot 2026-02-06 at 11 51 58ΓÇ»AM" src="https://github.com/user-attachments/assets/5f6c5643-d6a3-4480-87c5-947e55f36a50" /> | <img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 09ΓÇ»AM" src="https://github.com/user-attachments/assets/a9d00c5e-113a-4d82-b3b5-8828a83d4283" /> | <img width="1470" height="925" alt="Screenshot 2026-02-06 at 11 52 27ΓÇ»AM" src="https://github.com/user-attachments/assets/21fe80d0-63d9-455f-ad08-1e585e72cf5e" /> |
+| <img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 52 37ΓÇ»AM" src="https://github.com/user-attachments/assets/de769e22-e6c9-41f0-8379-2fb1770c24bc" /> | <img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 52 50ΓÇ»AM" src="https://github.com/user-attachments/assets/2b0431f7-78fe-4bdd-b4ea-84460689a641" /> | <img width="1470" height="923" alt="Screenshot 2026-02-06 at 11 53 00ΓÇ»AM" src="https://github.com/user-attachments/assets/7ea706c9-0042-4f3a-a7e9-e266bf07e391" /> |
+| <img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 19ΓÇ»AM" src="https://github.com/user-attachments/assets/eafdf1fb-14d6-4f80-a015-6bfbdbadc703" /> | <img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 29ΓÇ»AM" src="https://github.com/user-attachments/assets/52db86e6-049e-4d09-8246-999b539dfb31" /> | <img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 53 41ΓÇ»AM" src="https://github.com/user-attachments/assets/fd5f7c48-6c37-4eee-a95d-9752e4c150c1" /> |
+| <img width="1470" height="924" alt="Screenshot 2026-02-06 at 11 54 05ΓÇ»AM" src="https://github.com/user-attachments/assets/51eecb30-6526-4bff-8de6-a5e884130379" /> | |
 
 ## Configuration
 
