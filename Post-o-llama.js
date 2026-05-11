@@ -1,5 +1,5 @@
 /*********************************
- * 🦙 Post-o-llama By BerserkiKun
+ * 🦙 Post-o-llama By VermaOps
  * Postman v10+ supported
  * Location: API → Scripts → Post-response
  *********************************/
@@ -229,7 +229,7 @@ class PostOLlamaAnalyzer {
         pm.visualizer.set(`
             <h2>🦙 Post-o-llama</h2>
             <p>${message}</p>
-            <p>Author:</p><a href='https://github.com/berserkikun'>BerserkiKun</a>
+            <p>Author:</p><a href='https://github.com/VermaOps'>VermaOps</a>
         `);
     }
 
@@ -334,7 +334,7 @@ class PostOLlamaAnalyzer {
             </div>
 
             <div class="author-note">
-                Author: BerserkiKun | https://github.com/berserkikun
+                Author: VermaOps | https://github.com/VermaOps
             </div>
         `;
 
