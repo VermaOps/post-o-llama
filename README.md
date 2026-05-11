@@ -308,11 +308,11 @@ Your support helps maintain the project and add new features.
 
 <div align="center">
 
-**Built with ❤️ by [BerserkiKun](https://github.com/berserkikun)**
+**Built with ❤️ by [VermaOps](https://github.com/VermaOps)**
 
-[![GitHub Stars](https://img.shields.io/github/stars/berserkikun/post-o-llama?style=social)](https://github.com/berserkikun/post-o-llama/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/berserkikun/post-o-llama)](https://github.com/berserkikun/post-o-llama/issues)
-[![GitHub Forks](https://img.shields.io/github/forks/berserkikun/post-o-llama?style=social)](https://github.com/berserkikun/post-o-llama/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/VermaOps/post-o-llama?style=social)](https://github.com/VermaOps/post-o-llama/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VermaOps/post-o-llama)](https://github.com/VermaOps/post-o-llama/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/VermaOps/post-o-llama?style=social)](https://github.com/VermaOps/post-o-llama/network/members)
 
 **⭐ Star this repo if you find it useful!**
 
